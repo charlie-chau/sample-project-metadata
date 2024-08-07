@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
+    "name": "KDOT",
+    "description": "Albums",
+    "image": "https://sapphire-extra-cardinal-842.mypinata.cloud/ipfs/QmZiTgRFr28CoN4tY7bURwnhqwgZ7E3T6QhfVxWYMZHxTs",
     "external_link": "https://immutable.com" 
 }
